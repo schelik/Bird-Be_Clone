@@ -1,0 +1,78 @@
+.Product{
+    margin-top: 20px;
+    width: 730px;
+}
+
+.Canvas{
+    padding-left: 20px;
+    padding-bottom: 45px; /* Increases bottom height */
+}
+
+.Content{
+    display: flex;
+    flex-direction: left;
+    color: #182754;
+    margin-bottom: 0px;
+}
+
+#subHeading{
+    color: #414765;
+    font-size: 13px;
+    font-style: oblique;
+    padding-top: 10px;
+    padding-left: 7px;
+}
+
+#Price{
+    color: #4D3CC1;
+    font-size: 15px;
+    padding-top: 7px;
+    padding-left: 150px;
+}
+
+#Checkbox{
+    padding-left: 260px;
+}
+
+#ProductBody{
+    display: flex;
+    justify-content: flex-start;
+}
+
+#ProductContent{
+    width: 420px;
+    line-height: 1.4em;
+    font-size: small;
+    font-weight: 560;
+    text-align: left;
+    color: #403E3E;
+    padding-right: 90px;
+}
+
+#ProductImage{
+    height: 120px;
+    width: 120px;
+    margin-top: 10px;
+    box-shadow: -5px 3px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+#ProductFooter{
+    width: 420px;
+    color: #313857;
+    font-style: bold;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    
+}
+
+#ProductFooter p{
+    margin-top: 0px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+#RadioButtons{
+    
+}
